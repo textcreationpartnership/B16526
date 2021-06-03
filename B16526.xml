@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ars artium, or, The art of divine converse a New-years-gift / by D. Abercromby ...</title>
+            <author>Abercromby, David, d. 1701 or 2.</author>
+         </titleStmt>
+         <extent>Approx. 32KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16526</idno><idno type="EEBO-CITATION">12884664</idno>
+  <idno type="VID">199112</idno>
+  <idno type="EEBO-PROQUEST">2240872770</idno>
+  
+            <idno type="STC">Wing A79</idno>
+            <idno type="OCLC">12884664</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16526)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199112)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ars artium, or, The art of divine converse a New-years-gift / by D. Abercromby ...</title>
+                  <author>Abercromby, David, d. 1701 or 2.</author>
+               </titleStmt>
+               <extent>[13], 55 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and sold by Samuel Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Spiritual exercises --  Early works to 1800.</term>
+               <term type="topical_term">Conversation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199112:1"/>
+            <pb facs="tcp:199112:1"/>
+            <p>
+               <hi>ARS ARTIUM:</hi> OR, THE ART OF Divine Converse.</p>
+            <p>A <hi>New-Years-Gift.</hi>
+            </p>
+            <p>BY <hi>D. ABERCROMBY,</hi> Author of the Book entituled, <hi>Protestancy to be Embrac'd.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, and sold by <hi>Samuel Smith</hi> at the <hi>Princes Arms</hi> in <hi>St. Paul</hi>'s Church-yard. 1683.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:199112:2"/>
+            <pb facs="tcp:199112:2"/>
+            <head>To the Most Reverend Father in God, <hi>WILLIAM,</hi> By Divine Providence, Lord Archbishop OF <hi>CANTERBƲRY,</hi> Primate of All <hi>England,</hi> and Metropolitan, And one of the Lords of His Majestie's Most Honourable PRIVY-COUNCIL.</head>
+            <opener>
+               <salute>May it please Your Grace,</salute>
+            </opener>
+            <p>THo it be Prover<g ref="char:EOLhyphen"/>bial, That <hi>Arts
+<pb facs="tcp:199112:3"/> are happy, when exami<g ref="char:EOLhyphen"/>ned by True Artists;</hi> yet, we must confess, 'tis sometimes no small dis<g ref="char:EOLhyphen"/>advantage to undergo the Censure of clear<g ref="char:EOLhyphen"/>sighted Judges; because nothing can escape their all-seeing Eyes, and the Artificer him<g ref="char:EOLhyphen"/>self, with his Work, stands or falls by their Verdict. Nevertheless, I am not in the least ap<g ref="char:EOLhyphen"/>prehensive of <hi>Your Gra<g ref="char:EOLhyphen"/>ces</hi> Censure, tho fully
+<pb facs="tcp:199112:3"/> perswaded You are a Great Master in the Art of <hi>Divine Converse;</hi> be<g ref="char:EOLhyphen"/>cause Your piercing Eye shall discover nothing in this small Treatise, that already You are not acquainted with, and undoubtedly practise daily, in the midst of Your most serious Af<g ref="char:EOLhyphen"/>fairs: So I may say, You shall meet here with no<g ref="char:EOLhyphen"/>thing else but a Copy of Your Great Self, tho im<g ref="char:EOLhyphen"/>perfect, and far short of
+<pb facs="tcp:199112:4"/> the Original. This Trea<g ref="char:EOLhyphen"/>tise then is indeed as a <hi>New-Years-Gift,</hi> but not <hi>New</hi> to <hi>Your Grace:</hi> It points out an easie Me<g ref="char:EOLhyphen"/>thod of Conversing up<g ref="char:EOLhyphen"/>on all Occasions with God; but the same is made much easier to Imitation, by the live<g ref="char:EOLhyphen"/>ly Examples of Your eminent Piety and Learning. I must in this Conjuncture, discover ingenuously to <hi>Your Grace</hi> the most sincere
+<pb facs="tcp:199112:4"/> Sentiments of my Heart, that I rejoyce more than I can express, to become a Member of the <hi>Church of England,</hi> wherein I observe so great Examples of solid Doctrine and Christian Piety; which I see go<g ref="char:EOLhyphen"/>verned by so Loyal, so Learned, so Charitable, so Zealous Prelates and Pastors. I hate flattery, <hi>My Lord, Cane pejus &amp; angue,</hi> above all things. I shall say then, without
+<pb facs="tcp:199112:5"/> the least exaggeration of the Truth, That we have no reason to ad<g ref="char:EOLhyphen"/>mire the present Glory of this Church, since we know the true Cau<g ref="char:EOLhyphen"/>ses thereof; I mean our Gracious Soveraign's most Wise and Peacable Government, and <hi>Your Graces</hi> eminent Learn<g ref="char:EOLhyphen"/>ing, and Apostolick Zeal: By the former You are a declared Ene<g ref="char:EOLhyphen"/>my against all Errours; by the latter, you op<g ref="char:EOLhyphen"/>pose
+<pb facs="tcp:199112:5"/> with the vigour of a Primitive Prelate what<g ref="char:EOLhyphen"/>ever appears disorderly and sinful. That you may continue this and the ensuing Years in a full Health, necessary to such glorious Enterpri<g ref="char:EOLhyphen"/>ses, it shall be the hearty wish of him him who is,</p>
+            <closer>
+               <signed>Your Graces most Humble and most Obedient Servant, David Abercromby.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:199112:6"/>
+            <pb facs="tcp:199112:6"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>BOoks are not to be valued by their Bulk, no more than men. This Treatise, tho of a small Bulk, is great in Substance: It contains the most Noble of all Arts, to wit, that of <hi>Divine Converse.</hi> If thou be not an Artist in this Art, thou art not a Christian, at least, not a perfect one. It shall
+<pb facs="tcp:199112:7"/> not be inquired at the last day, What progress thou hast made in other Scien<g ref="char:EOLhyphen"/>ces, but how far thou hast advanced in this. Lest then thou be found guilty of wilful Ignorance, run over, or rather meditate frequently this ensuing Treatise: 'Tis plain, that the meanest Capacities may understand it; 'tis short, and proportionable to the leisure of the most busied.</p>
+            <closer>
+               <salute>Vale &amp; fruere.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:199112:7"/>
+            <head>
+               <hi>ARS ARTIƲM:</hi> OR, THE ART OF DIVINE CONVERSE.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <argument>
+                  <p>That there is an Art of Conversing with God.</p>
+               </argument>
+               <p>AN Art being nothing else but a multitude of Infallible Precepts, direct<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:199112:8"/> us Infallibly to an End, we could not at all, at least not so easily, attain to with the sole aid of our Innate Capacity; 'tis clear, there is an Art of Conversing that Invisible, All-sufficient, and All-Glorious Being we call God, since through the per<g ref="char:EOLhyphen"/>verseness of our Corrupted Nature, we meet with such obstacles to this Blissful Con<g ref="char:EOLhyphen"/>versation as could deprive us entirely of such a great good, if we were not taught some Infallible Method, ei<g ref="char:EOLhyphen"/>ther to Shun, or Sur<g ref="char:EOLhyphen"/>mount 'em: There must then be certain Rules given, and an Infallible Method point<g ref="char:EOLhyphen"/>ed out, whereby we may
+<pb n="3" facs="tcp:199112:8"/> remove whatever is capable to hinder or uneasie our fa<g ref="char:EOLhyphen"/>miliar access to God: For whatever esteem we have for him, though we ac<g ref="char:EOLhyphen"/>knowledge him our Crea<g ref="char:EOLhyphen"/>tor, our Soveraign, our all; yet we are so bewitched with the Objects that strike most our Senses, that we scarce ever come near him by Prayer or Meditation, but with I know not what Reluctancy, which if it were Invincible, would occa<g ref="char:EOLhyphen"/>sion men to think Blasphe<g ref="char:EOLhyphen"/>mously of Gods All-boun<g ref="char:EOLhyphen"/>tiful Providence, as if it had not furnished them with means necessary to their attaining that End
+<pb n="4" facs="tcp:199112:9"/> he Created them for, which was no other but his own Glory, the sole aim of all his Undertakings.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>That God is Gloryfied by this Art, and in what it consists.</p>
+               </argument>
+               <p>GOD only has right to do nothing, but for his own Glory, because of his Infinite Excellency, whose undoubted of Preroga<g ref="char:EOLhyphen"/>tive is to be <hi>Alpha</hi> and <hi>Ome<g ref="char:EOLhyphen"/>ga,</hi>
+                  <pb n="5" facs="tcp:199112:9"/> the beginning and end of all things: Though his other Creatures contribute not a little towards this Design, yet I may say, without scruple, none pro<g ref="char:EOLhyphen"/>motes it in so great a Mea<g ref="char:EOLhyphen"/>sure as Man does, whom it seems he has fram'd parti<g ref="char:EOLhyphen"/>cularly to his own Image and Resemblance for this End.</p>
+               <p>That we may understand how he performs this Du<g ref="char:EOLhyphen"/>ty, and Gloryfieth more his Maker, than all other Mute Creatures, 'twill not be amiss to decide clearly, what that is, which Men commonly call Glory, and so few comprehend: 'Tis defin'd
+<pb n="6" facs="tcp:199112:10"/> vulgarly thus, <hi>Clara cum claude notitia;</hi> a distinct knowledge, with praise of the Person we intend to Gloryfie. This Notion de<g ref="char:EOLhyphen"/>clares sufficiently, the Pro<g ref="char:EOLhyphen"/>perties of that Glory one Man receives from another: For Men are Gloryfied to the satisfaction of Ambition it selfe, if we, convinc'd of their extraordinary merits, pay to them the due Ho<g ref="char:EOLhyphen"/>mage of a proportionable praise: Yet methinks 'tis defective by respect to God, whose Glory receives a greater encrease of lustre by our Prayer than by our Praise: The former being an Infallible mark of our
+<pb n="7" facs="tcp:199112:10"/> dependency, not the latter: this definition then shall be Compleat, if we conceive it in these terms, <hi>Gloria est clara cum laude &amp; prece notitia:</hi> We Gloryfie God by a clear knowledge of his Perfecti<g ref="char:EOLhyphen"/>ons, in that Degree it may be had here, with Praise and Prayer.</p>
+               <p>The meer Speculative Knowledge of God contri<g ref="char:EOLhyphen"/>butes but little towards the increase of his Glory, for the Ancient Philosophers were convinc'd of his being Infinitely Perfect, Power<g ref="char:EOLhyphen"/>ful, and Wise, and yet Glo<g ref="char:EOLhyphen"/>ryfied him not as God, be<g ref="char:EOLhyphen"/>cause of their slight perfor<g ref="char:EOLhyphen"/>mance, or rather intire omis<g ref="char:EOLhyphen"/>sion
+<pb n="8" facs="tcp:199112:11"/> both of Praise and Pray<g ref="char:EOLhyphen"/>er: They were not acquain<g ref="char:EOLhyphen"/>ted with this Art of Con<g ref="char:EOLhyphen"/>versing Familiarly, their Soveraign Lord, by which only he is perfectly Glory<g ref="char:EOLhyphen"/>fied in this life; for we ne<g ref="char:EOLhyphen"/>ver place him in that De<g ref="char:EOLhyphen"/>gree of Glory he deserves, and we are capable of, un<g ref="char:EOLhyphen"/>less besides a not ordinary knowledge of his perfections, we break out both in Praise and Prayer, asking him, as All-Good, and Almighty, our needs Spiritual and Tem<g ref="char:EOLhyphen"/>poral; and this we shall per<g ref="char:EOLhyphen"/>form with greater Facility than we can yet Imagine, if we are but once proficient in the Art of Conversing
+<pb n="9" facs="tcp:199112:11"/> with him; and such we shall undoubtedly prove, if we reflect seriously on Four things. 1. On the time he makes choice of, to speak to us. 2. On the Subject of his Speech. 3. On our in<g ref="char:EOLhyphen"/>dispensible Obligation to speak to him. 4. In what manner we ought to acquit our selves of so necessary a Duty.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="10" facs="tcp:199112:12"/>
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>When God speaks to us.</p>
+               </argument>
+               <p>TWO Persons are said to Converse together, when they speak one with another; in the same Sense we ConversE with that So<g ref="char:EOLhyphen"/>veraign Being, when he vouchsafeth to speak to us, and we are permitted to speak our needs to him; and as in all Regular Con<g ref="char:EOLhyphen"/>versation, while the one Discourseth, the other with a respectuous silence is at<g ref="char:EOLhyphen"/>tentive to his Discourse, we
+<pb n="11" facs="tcp:199112:12"/> must recollect our selves, and hearken to his Oracles, lest he address to us his Speech, and we through a Criminal disrespect, take no notice thereof, or hear it not, which would make us ac<g ref="char:EOLhyphen"/>countable to his Justice, as neglecting such an unde<g ref="char:EOLhyphen"/>serv'd Favour, as is the op<g ref="char:EOLhyphen"/>portunity, never perhaps to return again, of receiving from his All-liberal hand, what each one knows he most stands in need of.</p>
+               <p>Because in a Familiar Con<g ref="char:EOLhyphen"/>versation som are so distract<g ref="char:EOLhyphen"/>ed with other thoughts, that they must be told when they are spoken to; the same thing may happen in
+<pb n="10" facs="tcp:199112:13"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:199112:13"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:199112:14"/> our Case; Men not reflect<g ref="char:EOLhyphen"/>ing on that Critical Minute God makes his Applcation to them; either because he is Invisible and seldom thought on, or being too attentive to the frequent suggestions of the Flesh, they listen not to what con<g ref="char:EOLhyphen"/>cerns the Spirit: I shall therefore assume for thy Spi<g ref="char:EOLhyphen"/>ritual Interest, this Chari<g ref="char:EOLhyphen"/>table Office, and Advertise thee, if perhaps thou be of this number, when particularly God speaks to thy Heart, and when thou art indispen<g ref="char:EOLhyphen"/>sibly obliged to hear with an Attention suitable to the quality of such a Speaker.</p>
+               <pb n="13" facs="tcp:199112:14"/>
+               <p>God speaketh to us, either immediately, or mediately; immediately by Revelation; mediately, by Inspiration; the former is extraordinary, and granted to few, of this I shall say nothing; the lat<g ref="char:EOLhyphen"/>ter is ordinary, and denied to none; it consists chiefly in two things, in the Illu<g ref="char:EOLhyphen"/>mination of the Intellective Faculty, and Motion of the Affective, I mean the Will.</p>
+               <p>Whensoever then God illuminates thy Understand<g ref="char:EOLhyphen"/>ing, or moves thy Will, he speaks to thee, and this he does at every moment, or at least, as often as thou but opens thy Eyes to con<g ref="char:EOLhyphen"/>template his wonderful
+<pb n="14" facs="tcp:199112:15"/> Works: He has no Tongue I know to speak withal, but all his Creatures, how mute soever they be, speak his Mind in a most Eloquent and Intelligible manner to all such as make use of their discerning faculty.</p>
+               <p>Run out then into the Fields, thou needs no other Company there but God and thy self to Converse withall; the vast extent of this Visible World tells thee he is Immense, and with<g ref="char:EOLhyphen"/>out either Compass or Mea<g ref="char:EOLhyphen"/>sure; the Beauty of every part thereof assureth us, that what we admire so much, is but a slight Representation of that Substantial, Essenti<g ref="char:EOLhyphen"/>al,
+<pb n="15" facs="tcp:199112:15"/> and Unparallable Beauty, never failing, but always subsisting in and by it self: the confus'd language of a raging Sea, declares distinctly the in<g ref="char:EOLhyphen"/>conceivable fury of his wrath against Sinners. The Earth, though but a dull Mass, in<g ref="char:EOLhyphen"/>formeth us of his Immutabi<g ref="char:EOLhyphen"/>lity; the Air of his Subtili<g ref="char:EOLhyphen"/>ty; the Fire of his Activity; the Heavens of his Glory; the Stars and Planets, with as many Tongues as Beams, Preach his Magnificency; in fine, a numberless number of his Creatures bear Testimo<g ref="char:EOLhyphen"/>ny to his Wisdom by their Industry and Dexterity, and all sound aloud the infinity of his Power, by their wonder<g ref="char:EOLhyphen"/>ful
+<pb n="16" facs="tcp:199112:16"/> passage from the dark Abyss of nothing, to the clear light of Existency, and his All-bountiful Providence, by the unwearied of Pro<g ref="char:EOLhyphen"/>tection of that being he has given them; can we think it then either hard or im<g ref="char:EOLhyphen"/>possible to Coverse with God, he is every where to be met withal, he is Visible in every Corner of the World to a Man that hath Eyes,
+<q>Jupiter est quodcumque vides, Jovis omnia plena.</q> lest we should be dazeled with the Glory of his Ma<g ref="char:EOLhyphen"/>jesty, he has laid it aside and hid himself in the mean<g ref="char:EOLhyphen"/>est
+<pb n="17" facs="tcp:199112:16"/> of his Creatures, but we shall easily discover him by the Rays of his God<g ref="char:EOLhyphen"/>head Gloriously shining in the lowest Work of his Hands.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>When God Speaks and Converseth with us more particularly.</p>
+               </argument>
+               <p>GOd Converseth with us in the foregoing man<g ref="char:EOLhyphen"/>ner, when he quickens our
+<pb n="18" facs="tcp:199112:17"/> Understanding, in order to discover to us his wonderful perfections in the Works of his Power: But there are two other noted times he speaks to us more particular<g ref="char:EOLhyphen"/>ly; to wit, Adversity and Prosperity; in time of Ad<g ref="char:EOLhyphen"/>versity he punisheth as a Fa<g ref="char:EOLhyphen"/>ther, in time of Prosperity he Caresseth as a Mother.</p>
+               <p>These great Riches thou art possessed withal speak distinctly enough in his Fa<g ref="char:EOLhyphen"/>vour, if thou hast so much of Wit as to understand their Language; we are, say they, or rather God himself by their Mouths, Convincing Arguments of that Extream Care your Celestial Father
+<pb n="19" facs="tcp:199112:17"/> takes to provide for your Bodily wants, that you may with less disturbance think only on what concerns your Souls; Remember always you are not Proprietarys, but meer oeconomers, you are accountable for the good or ill use you make of us to a Master extreamly rigorous, though just in the highest degree, by whom we are al<g ref="char:EOLhyphen"/>lowed to be the Instruments of your Beneficency, not of your Riots and Debau<g ref="char:EOLhyphen"/>chery: Forget never, you will certainly at the utmost leave us when Death comes, and we in all probability, as being inducements to your daily Crimes, shall
+<pb n="20" facs="tcp:199112:18"/> leave you before that time.</p>
+               <p>Such is the mute Elo<g ref="char:EOLhyphen"/>quence of that Gold, of that Silver, of those Immense Treasures thou heaps up in thy Coffers so Carefully; but perhaps they stand like a Wall betwixt thee and God, hindring thee to hear<g ref="char:EOLhyphen"/>ken to his Voice; well, he shall overthrow it, and take away these Riches that are the cause of thy Spiritual Deafness: Affliction perhaps will give thee understanding, and make thee understanding, and make thee the more at<g ref="char:EOLhyphen"/>tentive to his Inspirations. He was never more Fami<g ref="char:EOLhyphen"/>liarly conversant with <hi>Job,</hi> nor <hi>Job</hi> more attentive to his Oracles, than upon the
+<pb n="21" facs="tcp:199112:18"/> Dunghil, and in his greatest Miseries.</p>
+               <p>Thou art then now for<g ref="char:EOLhyphen"/>saken by these Riches thou gloryed so much in, and trusted so much to; thy Friends are no more, and the chief Props of thy for<g ref="char:EOLhyphen"/>mer Grandeur are over<g ref="char:EOLhyphen"/>thrown; every one shuns thy Company, as hoping no more the same advantage thereby now as formerly: But take Courage, God himself shall be thy Com<g ref="char:EOLhyphen"/>panion, and Converse with thee, as with his dearly be<g ref="char:EOLhyphen"/>loved Child: He will Dis<g ref="char:EOLhyphen"/>course to thee in this Con<g ref="char:EOLhyphen"/>juncture particularly of the Vanity of whatever expects
+<pb n="22" facs="tcp:199112:19"/> an end, as Riches, Honours, Imployments, Pleasures; he will mind thee of thy Plea<g ref="char:EOLhyphen"/>sures, how they were <hi>simul in ortu, simul in occasu,</hi> ended in the very first moment of their being, as to that brutish satisfaction thou was so much taken with in their enjoy<g ref="char:EOLhyphen"/>ment, but still persevering in the trouble and sting of thy Restless Conscience.</p>
+               <p>This is a Secret known only to the Spiritual and Discerning sort, that God would have us to Spiritua<g ref="char:EOLhyphen"/>lize every thing, and Envi<g ref="char:EOLhyphen"/>sage in the meanest of his Creatures his highest Per<g ref="char:EOLhyphen"/>fections, the best attractives of our affections: He desires
+<pb n="23" facs="tcp:199112:19"/> all Men to reflect seriously, he expresseth his extream love towards them, in a sen<g ref="char:EOLhyphen"/>sible tho different manner, no less when Fortune smiles, yea perhaps more too than when it frowns.</p>
+               <p>Take notice yet of ano<g ref="char:EOLhyphen"/>ther Christian Truth, condu<g ref="char:EOLhyphen"/>cive in no small measure to thy Spiritual proficiency, and my present Design: God speaks to us by all such as have Authority over us; such are Superiors either Ci<g ref="char:EOLhyphen"/>vil, or Ecclesiastick; their Will must be look'd upon as his in all things not repug<g ref="char:EOLhyphen"/>nant to his written Word, insomuch, that if we resist, in Lawful things, our Law<g ref="char:EOLhyphen"/>ful
+<pb n="24" facs="tcp:199112:20"/> Superiours, we oppose not only them, but God himself, whose Lieutenants they are; and as such ought to be Reverenc'd by all their Subjects: What they say in reference to our allegiance, we must conceive to be said by him, or by his Inspirati<g ref="char:EOLhyphen"/>on, whom they represent: Let all Inferiors then reflect, that God Converseth with them, by these good In<g ref="char:EOLhyphen"/>structions and wholesom Advices they receive from such as he has set over their Heads: If we but once ac<g ref="char:EOLhyphen"/>custom our selves to take whatever happens to us here below in this Spiritual By<g ref="char:EOLhyphen"/>ass, we have attained to an
+<pb n="25" facs="tcp:199112:20"/> infallible Method how to find God every where, and Converse with him inti<g ref="char:EOLhyphen"/>mately upon all occasions.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="26" facs="tcp:199112:21"/>
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>The Subject of Gods speech to us.</p>
+               </argument>
+               <p>THE Subject of Gods Speech to us is ever proportionable to that De<g ref="char:EOLhyphen"/>gree he has plac'd us in in this World, and is as diffe<g ref="char:EOLhyphen"/>rent as our Imployments are here, and his Designs on us hereafter; yet we may say generally, his Converse with us aims always at our greatest perfection; he will not have us to content our
+<pb n="27" facs="tcp:199112:21"/> selves with an ordinary Vir<g ref="char:EOLhyphen"/>tue, because he prepares us an extraordinary Reward; in Contemplation whereof he stirs us up to great Enter<g ref="char:EOLhyphen"/>prises for his Glory, to fight constantly against our three most dangerous Enemies, the Devil, the Flesh, and the World; he puts us in Mind to go on stoutly, and not to weary by the way in our Spiritual Progress; for he would be highly offended, if we imagin'd any <hi>Tropicks,</hi> or <hi>non plus ultra,</hi> in the career of perfection.</p>
+               <p>But when we take a course contrary to his De<g ref="char:EOLhyphen"/>signs, and our own Spiritu<g ref="char:EOLhyphen"/>al Concerns, he Exhorts us
+<pb n="28" facs="tcp:199112:22"/> to Repentance, and useth us, as an Expert Physician his Patient: He Imploys first Lenitives, to cure the Ma<g ref="char:EOLhyphen"/>lidies of our Souls; such are sometimes Riches, Ho<g ref="char:EOLhyphen"/>nour, Good Success, Great Imployments, bestowed of<g ref="char:EOLhyphen"/>ten on most Undeserving Persons, in aim only to gain by such Favours their affecti<g ref="char:EOLhyphen"/>ons; but if they are not prevailed upon by such li<g ref="char:EOLhyphen"/>beral profusions to acknow<g ref="char:EOLhyphen"/>ledge their Benefactor, and their own unworthiness of his Benefits, the Distemper now being come to a great height, he shall have recourse to the last and extream Re<g ref="char:EOLhyphen"/>medies, he shall dispoil us
+<pb n="29" facs="tcp:199112:22"/> of these Riches, the only source of all our disorders, abandon us to the wrath of those we look upon as the chief upholders of our For<g ref="char:EOLhyphen"/>tunes, make away that wife, those Children we love so dearly, deprive us of that health so instrumental to our Debaucheries, that so forsaken by all Earthly things, we may be forced to come back to him and our selves again.</p>
+               <p>Thou could not hear his Voice in time of Prosperity, by reason of the Tumult of thy vast Retinue, of thy Numerous and boisterous Family, and continual Di<g ref="char:EOLhyphen"/>sturbance of active and pas<g ref="char:EOLhyphen"/>sive
+<pb n="30" facs="tcp:199112:23"/> Visits; now all this past, and being now by a friendly stroke from a<g ref="char:EOLhyphen"/>bove reduced to a mean condition, thou shalt have leisure in a silent solitude to hearken to the least of his whispers and be more atten<g ref="char:EOLhyphen"/>tive to his Fatherly Instru<g ref="char:EOLhyphen"/>ctions, all tending to thy Spiritual Progress in the Career of perfection.</p>
+               <p>To come to Particulars, he speaks to each one con<g ref="char:EOLhyphen"/>formably to that State of Life he has called them to; he remembers Princes, they are not for themselves, but for the People; they ought to look upon their Subjects as their Children, not as
+<pb n="31" facs="tcp:199112:23"/> their Slaves; that they must provide for their Temporal welfare, by Just Laws; and Eternal Interest, by not suf<g ref="char:EOLhyphen"/>fering any Crime they may hinder: He Exhorts again all Inferiors not to be defi<g ref="char:EOLhyphen"/>cient in any part of their Duty towards their Re<g ref="char:EOLhyphen"/>spective Superiors, whom they ought to reverence as his Vicegerents.</p>
+               <p>His more Particular Con<g ref="char:EOLhyphen"/>verse with us in private, aims always at the rooting out of that predominant Passion which influences Powerfully all our Actions. Our Conscience, or rather God, by and in it, tells us, that too insatiable desire of
+<pb n="32" facs="tcp:199112:24"/> Riches overweighs our Poor Soul, and draws it down to Hell it self, whither we are ready to go, if we thought to meet there with a Trea<g ref="char:EOLhyphen"/>sure: If this be the Devil thou art possessed withal, thou art told by the secret Voice of Inspiration to wrestle him out of Doors without respite, and with all speed. Another Sacrificeth all, his Soul not excepted, to Momentary and Brutish Pleasures; but he hears God whispering in his Ears, in all times, and in all places, the Idol of Pleasures he adores, is the false Deity he must Re<g ref="char:EOLhyphen"/>nounce too, if he will shun his Eternal Ruine: Others,
+<pb n="33" facs="tcp:199112:24"/> and those too many, are o<g ref="char:EOLhyphen"/>verpowered by that under<g ref="char:EOLhyphen"/>taking Passion of Honour; at this <hi>Goliah</hi> of Worldly Grandeur, such ought to aim continually, for if they are so happy as to give him once a Mortal blow and o<g ref="char:EOLhyphen"/>verthrow him, 'twill be easie to put all the rest of the <hi>Philistims</hi> to flight; I mean if once we extirpate our pre<g ref="char:EOLhyphen"/>dominant by the very Root, our other imperfections, its defective Offsprings, shall never bide us a pull.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="34" facs="tcp:199112:25"/>
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>Our Indispensible Obliga<g ref="char:EOLhyphen"/>tion to Speak and Con<g ref="char:EOLhyphen"/>verse with God.</p>
+               </argument>
+               <p>UPon several accounts we are indispensibly obliged to Speak and Con<g ref="char:EOLhyphen"/>verse with that Soveraign Being we understand by this Word, God. 1. Because 'tis it seems the very End he Created us for; not that he had need of ours, or any other Creatures Company, but because as he is infinite<g ref="char:EOLhyphen"/>ly
+<pb n="35" facs="tcp:199112:25"/> good by Nature, nothing can please him more, than to Communicate himself to whatever is capable of his Friendship. 2. Because he is our Judge, and shall decide in last Instance of our happy or unhappy Eternity. Tho he be Infinitely Just and Rigo<g ref="char:EOLhyphen"/>rous beyond all Imagination; yet, he may be gain'd in some manner as other Judges, with Gifts, not of Gold or Silver, but of Praise and Prayer.</p>
+               <q>Munera crede mihi placant Hominesque Deosque Placatur donis <hi>Jupiter</hi> ipse datis.</q>
+               <pb n="36" facs="tcp:199112:26"/>
+               <p>What would be your opi<g ref="char:EOLhyphen"/>nion of a Man, who would neglect so far his most im<g ref="char:EOLhyphen"/>portant Affairs, as never to recommend them to the Judge on whose only favour the good success depends? Such an one, you say, hath not his Wits about him, as slighting his most material concerns, <hi>ex ore tuo te judice,</hi> you have pronounced a<g ref="char:EOLhyphen"/>gainst your self with your own Mouth: The greatest affairs of the World, of Commerce, and Confedera<g ref="char:EOLhyphen"/>cy, Peace and Wars, <hi>&amp;c.</hi> are but meer Trifles, and Childish Plays; there is but one thing in the World I can conceive, as deserving
+<pb n="37" facs="tcp:199112:26"/> the Name of Affair, which is our Eternal happiness: Are not we then in a fit of a not<g ref="char:EOLhyphen"/>ordinary folly, if we neglect a business of this moment, or never own him from and by whom only we may ex<g ref="char:EOLhyphen"/>pect the good success there<g ref="char:EOLhyphen"/>of?</p>
+               <p>God is our Father: He has given us such extraordi<g ref="char:EOLhyphen"/>nary marks of his love by our Creation, Redemption, and Conservation, that we are oblig'd least we incur the guilt of an extream In<g ref="char:EOLhyphen"/>gratitude, to render him of<g ref="char:EOLhyphen"/>ten thanks for such unde<g ref="char:EOLhyphen"/>serv'd and wonderful bene<g ref="char:EOLhyphen"/>fits; we are his Children, we stand in need of his Fa<g ref="char:EOLhyphen"/>therly
+<pb n="38" facs="tcp:199112:27"/> protection against our Enemies, both Visible and Invisible: He will supply sufficiently all our wants, both Spiritual and Corpo<g ref="char:EOLhyphen"/>ral, but we must pay to him first the due homage of a humble Prayer; since we may procure to our selves so great an advantage at so easy a rate, can we prudently neglect it?</p>
+               <p>God is our Physician, whom we are concern'd to Consult in all our Distem<g ref="char:EOLhyphen"/>pers both of Body and Soul. That Patient desires not to be cured, who never makes an overture of his Indispo<g ref="char:EOLhyphen"/>sition to him that only is able to cure it. God, I con<g ref="char:EOLhyphen"/>fess,
+<pb n="39" facs="tcp:199112:27"/> understands perfectly our strong and our Weak, the most secret and hidden Maladies of our Souls, but yet he will be told of them by us, as if he knew them not, that at least by that All<g ref="char:EOLhyphen"/>mover proper Interest we may turn our selves often to, and Converse with him, which is undoubtedly the greatest happiness we can at<g ref="char:EOLhyphen"/>tain to in this life, and as a foretast of our Future Con<g ref="char:EOLhyphen"/>versation with that God of Majesty, in the Splendour of his Glory.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="40" facs="tcp:199112:28"/>
+               <head>CHAP. VII.</head>
+               <argument>
+                  <p>In what manner we ought to Converse with God.</p>
+               </argument>
+               <p>I Design not in this place to write a Spi<g ref="char:EOLhyphen"/>ritual Treatise: There is nothing more Com<g ref="char:EOLhyphen"/>mon in the Age we live in, than Books of Instruction for such as profess a not-ordinary Piety: I intend only to
+<pb n="41" facs="tcp:199112:28"/> speak home to the scope of this present Treatise, and to set down an easie and practicable Method to Converse with God at all occasions, for the ad<g ref="char:EOLhyphen"/>vancement of our Spi<g ref="char:EOLhyphen"/>ritual Concerns.</p>
+               <p>It consists chiefly in these three following Things; in Knowledge, Praise, and Prayer. We Converse with God by Knowledge, when we Meditate upon his
+<pb n="42" facs="tcp:199112:29"/> Wonderful Perfecti<g ref="char:EOLhyphen"/>ons: By Praise, when we extol his Mercies: By Prayer, when we ask him our Needs. There is nothing here but may be easily per<g ref="char:EOLhyphen"/>formed by a Man of an ordinary Capacity.</p>
+               <p>To attain to a suffi<g ref="char:EOLhyphen"/>cient Knowledge of Gods Infinite Perfecti<g ref="char:EOLhyphen"/>ons, we need not have recourse to the Abstract and Metaphysical Me<g ref="char:EOLhyphen"/>ditations of Divines.</p>
+               <pb n="43" facs="tcp:199112:29"/>
+               <p>Let us but open our Eyes and look about us, wherever we are, and we shall see them written with sensible Characters in the Fore<g ref="char:EOLhyphen"/>heads of all his Crea<g ref="char:EOLhyphen"/>tures: His Infinite Wis<g ref="char:EOLhyphen"/>dom a seeing man can<g ref="char:EOLhyphen"/>not but discover in the Beauty, Order, Har<g ref="char:EOLhyphen"/>mony and Structure of this Universe, and of himself as a wonder<g ref="char:EOLhyphen"/>ful Abridgement of all his Works: We see
+<pb n="44" facs="tcp:199112:30"/> clearly his Power, Good<g ref="char:EOLhyphen"/>ness, and his other At<g ref="char:EOLhyphen"/>tributes in the Creation, and constant Conserva<g ref="char:EOLhyphen"/>tion of the vilest Ob<g ref="char:EOLhyphen"/>jects our sight meets with: Let us then break out in Praise of his Glory, Power and Goodness, of his Innu<g ref="char:EOLhyphen"/>merable Mercies be<g ref="char:EOLhyphen"/>stowed upon us from the very moment of our Birth, yea and be<g ref="char:EOLhyphen"/>fore we opened our Eyes to see the light of Heaven.</p>
+               <pb n="45" facs="tcp:199112:30"/>
+               <p>Every Creature may be to us an ample, subject to run out in Praise of, and Prayer to God: This is a great secret of the Spiritual Life, to Discern and Spiritualize for the good of our Souls, these sen<g ref="char:EOLhyphen"/>sible Objects, which so many misuse to their own Damnation: That Beauty thou admires, betrays perhaps thy Soul to a dangerous and restless Passion, be<g ref="char:EOLhyphen"/>cause
+<pb n="46" facs="tcp:199112:31"/> thou looks upon the enjoyment thereof as thy Soveraign hap<g ref="char:EOLhyphen"/>piness; but another clearer sighted than thou art, considers it only as an imperfect Copy of that Original and never fading Beau<g ref="char:EOLhyphen"/>ty: And so, what is a cause of sin to some, is to others an occasion of Spiritual Proficiency: This Instance Instructs thee sufficiently how to pass through the sensi<g ref="char:EOLhyphen"/>ble
+<pb n="47" facs="tcp:199112:31"/> Objects, to that In<g ref="char:EOLhyphen"/>visible Being, who Created them designed<g ref="char:EOLhyphen"/>ly for this end.</p>
+               <p>I shall discover as yet, three most important Practices, whereby we may attain in this life in the midst of our greatest Affairs, to a not ordinary Intimacy and Union with God. First, If we are so busie that we can spare no set time for our Prayers, let us Offer unto God,
+<pb n="48" facs="tcp:199112:32"/> as a Morning Sacrifice, all the Actions we shall do that day: This In<g ref="char:EOLhyphen"/>tention, called com<g ref="char:EOLhyphen"/>monly by the Mysticks a virtual one, remains still, tho not reflected on, so long 'tis not in<g ref="char:EOLhyphen"/>terrupted by a sinful Action, for such an one cannot be of the num<g ref="char:EOLhyphen"/>ber of those we present God withal at our up<g ref="char:EOLhyphen"/>rising; this Act Sancti<g ref="char:EOLhyphen"/>fyeth our most indiffe<g ref="char:EOLhyphen"/>rent Actions, and makes
+<pb n="49" facs="tcp:199112:32"/> those much more valu<g ref="char:EOLhyphen"/>able that are good by their own Nature: This Method of uniting our selves to God, is so easie, that none can be excused from practising it. The Ladies, that spend a part of the day in admiring that Beau<g ref="char:EOLhyphen"/>ty which Nature gave them not, but the Art of Painting, may allow it easily one moment, which perhaps would be an occasion to with<g ref="char:EOLhyphen"/>draw
+<pb n="48" facs="tcp:199112:33"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="49" facs="tcp:199112:33"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="50" facs="tcp:199112:34"/> some of them from spending so much of their time so idlely: The Statesmen, Law<g ref="char:EOLhyphen"/>yers, and all such as have few spare hours, from their own, and Publick Affairs, may in the aforesaid manner be as much United to God, as ever the <hi>Anacho<g ref="char:EOLhyphen"/>rets</hi> of <hi>Egypt</hi> were in their silent solitudes.</p>
+               <p>The second Method to Converse with God in this life, and very
+<pb n="51" facs="tcp:199112:34"/> proportionable to the weakness of our Nature, soon weary of deep and long Meditations, is that of frequent Ejacu<g ref="char:EOLhyphen"/>lations whereby in the very midst of our Mirth we may be seriously Conversant with our Maker, by suddain and short Acts of Love, Hope, Faith, Praise and Prayer; and this we may perform without alte<g ref="char:EOLhyphen"/>ring in the least our Ex<g ref="char:EOLhyphen"/>terior Behaviour, which
+<pb n="52" facs="tcp:199112:35"/> is the securest way I know of to honour God in Spirit and Truth, and the remotest from all danger of Hypocrisie. Tho I am well persua<g ref="char:EOLhyphen"/>ded we are obliged to do good, not only in the sight of God, but also before Men, that they may be encou<g ref="char:EOLhyphen"/>raged and edified by our good example.</p>
+               <p>There remains a third Practice, which if Men did reflect upon,
+<pb n="53" facs="tcp:199112:35"/> would render their Converse with God easie and sweet in the midst of their greatest disturbances, it consists in taking whatever be<g ref="char:EOLhyphen"/>falls us from the hand of God, without accu<g ref="char:EOLhyphen"/>sing either our Enemies or a Frowning Fortune: For certain 'tis, Fortune is but a Heathenish Dei<g ref="char:EOLhyphen"/>ty, and a meer Fiction, unless we thereby un<g ref="char:EOLhyphen"/>derstand Gods Eternal Decree. Whensoever
+<pb n="54" facs="tcp:199112:36"/> then, for Instance, an Enemy wrongs you in your Repute, remem<g ref="char:EOLhyphen"/>ber he is the Instrument of a Just God, who Chastiseth thus thy Am<g ref="char:EOLhyphen"/>bition; some suddain and unexpected acci<g ref="char:EOLhyphen"/>dent makes away thy Children, they Husband, thy Wife, thy nearest and dearest Relations, thou must adore in all this his Divine Will, and impenetrable Designs: thou art disposest per<g ref="char:EOLhyphen"/>haps
+<pb n="55" facs="tcp:199112:36"/> of a Great Estate, Great Riches and Ho<g ref="char:EOLhyphen"/>nours, by the oppressi<g ref="char:EOLhyphen"/>on and calumny of thy Enemies; behave thy self in this Conjuncture as a Christian, acknow<g ref="char:EOLhyphen"/>ledge the heavy hand of God upon thee, without Railing against, or Re<g ref="char:EOLhyphen"/>venging thy self upon those who are the Exe<g ref="char:EOLhyphen"/>cutioners of his Justice.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
